@@ -1,6 +1,8 @@
 # Data Science Portfolio
 
-[![Data Science Graduate Badge](https://images.credly.com/images/876b01ef-23aa-4a29-b6d2-56c230b89935/image.png)](https://www.credly.com/badges/d851c5b9-6ccf-42f9-9b17-4cfef1201ea9/public_url)
+<a href="#">
+  <img src="https://images.credly.com/images/5d8c4e32-30dd-4e27-88c3-667dd75b69eb/image.png" width="300" height="300">
+</a>
 
 ## 🏆 Certification
 **Data Science Graduate** | WorldQuant University
