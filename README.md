@@ -1,7 +1,7 @@
-# Data Science Portfolio
+# Applied Data Science Portfolio
 
 <a href="#">
-  <img src="https://images.credly.com/images/876b01ef-23aa-4a29-b6d2-56c230b89935/image.png" width="300" height="300">
+  <img src="https://images.credly.com/images/876b01ef-23aa-4a29-b6d2-56c230b89935/image.png" width="300" height="300" style="margin:auto">
 </a>
 
 ## 🏆 Certification
