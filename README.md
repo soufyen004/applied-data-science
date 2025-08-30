@@ -1,13 +1,13 @@
 # Data Science Portfolio
 
-[![Data Science Graduate Badge](https://images.credly.com/images/5d8c4e32-30dd-4e27-88c3-667dd75b69eb/image.png)](https://www.credly.com/badges/d851c5b9-6ccf-42f9-9b17-4cfef1201ea9/public_url)
+[![Data Science Graduate Badge](https://images.credly.com/size/680x680/images/876b01ef-23aa-4a29-b6d2-56c230b89935/image.png)](https://www.credly.com/badges/d851c5b9-6ccf-42f9-9b17-4cfef1201ea9/public_url)
 
 ## 🏆 Certification
 **Data Science Graduate** | WorldQuant University
 
 Earners of this badge have completed eight end-to-end, applied data science projects. In each project, they accessed data from files, SQL and NoSQL databases and APIs. They have demonstrated their ability to explore and clean data, create functions and ETL pipelines to prepare training sets. They have built machine learning models for supervised and unsupervised learning tasks, and have created visualizations to explain data characteristics and model predictions for non-technical audiences.
 
-**Skills Validated:** `API Design` `Data Science` `Data Visualization` `Machine Learning` `MongoDB` `Python` `SQL` `Statistics`
+**Skills Validated:** </br>`API Design` `Data Science` `Data Visualization` `Machine Learning` `MongoDB` `Python` `SQL` `Statistics`
 
 ---
 
